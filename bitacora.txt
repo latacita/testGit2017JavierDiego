@@ -1,11 +1,17 @@
 ﻿%%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):Diego Martinez, Javier                %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+
+03	checkout Historia000
+
+04	checkout Historia001
+
+05	checkout Historia000
 
 07	add bitacora
 
@@ -13,4 +19,11 @@
 
 09	checkout Historia001
 
+11	stash y checkout
+
 16	apply stash
+
+
+
+
+
