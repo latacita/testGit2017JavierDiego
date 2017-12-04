@@ -23,6 +23,9 @@
 
 16	apply stash
 
+20	merge Historia000		Tras la fusión(Recursiva) existen conflictos en el archivo bitacora.
+					Se han resuelto y se ha hecho commit "Conflictos resueltos"
+
 
 
 
