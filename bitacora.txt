@@ -1,11 +1,30 @@
 ﻿%%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):Diego Martinez, Javier                %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+
+03	checkout Historia000
+
+04	checkout Historia001
+
+05	checkout Historia000
+
+07	add bitacora
+
+08	commit "Paso 08"
+
+09	checkout Historia001
+
+11	stash y checkout
+
+16	apply stash
+
+20	merge Historia000		Tras la fusión(Recursiva) existen conflictos en el archivo bitacora.
+					Se han resuelto y se ha hecho commit "Conflictos resueltos"
 
 25					Fast-forward
 
@@ -13,3 +32,11 @@
 
 28	push				Da fallo, fuera de sincronía.
 					Hago pull y después push. 
+
+30	commit "Paso 30"		Recursiva.
+
+
+
+
+
+
