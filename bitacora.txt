@@ -8,3 +8,8 @@
 ====== ============================ ================================
 
 25					Fast-forward
+
+27	tag RespuestaPreguntaFusion
+
+28	push				Da fallo, fuera de sincronía.
+					Hago pull y después push. 
