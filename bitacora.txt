@@ -12,3 +12,5 @@
 04	checkout Historia001
 
 05	checkout Historia000
+
+11	stash y checkout
